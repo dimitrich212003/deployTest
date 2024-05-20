@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const routes = require("./routes/routes.js");
 
 const express = require("express");
